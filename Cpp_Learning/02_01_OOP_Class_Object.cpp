@@ -59,7 +59,7 @@ void Account::open_account(int accno, string ahname, float blc)
 }
 /***********************************************************************************/
 
-/*int main()
+int main()
 {
 	//Creating objects
 	Account piku;
@@ -79,5 +79,5 @@ void Account::open_account(int accno, string ahname, float blc)
 
 	delete loan;
 	return 0;
-}*/
+}
 /***********************************************************************************/
